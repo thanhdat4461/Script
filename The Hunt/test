@@ -1,5 +1,0 @@
-if game == true then
-
-print("executex")
-
-fire
