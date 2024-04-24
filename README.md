@@ -1,3 +1,6 @@
-# Another Different Place For Script ![static (5)](https://github.com/thanhdat4461/BaconScripter/assets/125394392/135afa4f-a2c0-4dd3-b084-d6fe29965a52)
-For More Information Join The Discord Server By Clicking Link
+# BaconScripter Script
+
+# BaconScripter Script is a script was used to make roblox script/free ugc limited
+
+# Discord Server
 https://discord.com/invite/J7AGcdXG8Z
